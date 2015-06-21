@@ -1,0 +1,7 @@
+G:\CSproject\Meteo\Meteo\bin\Debug\Meteo.exe
+G:\CSproject\Meteo\Meteo\bin\Debug\Meteo.pdb
+G:\CSproject\Meteo\Meteo\bin\Debug\Parser.dll
+G:\CSproject\Meteo\Meteo\bin\Debug\Parser.pdb
+G:\CSproject\Meteo\Meteo\obj\x86\Debug\Meteo.csprojResolveAssemblyReference.cache
+G:\CSproject\Meteo\Meteo\obj\x86\Debug\Meteo.exe
+G:\CSproject\Meteo\Meteo\obj\x86\Debug\Meteo.pdb
